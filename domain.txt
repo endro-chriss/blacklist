@@ -1,0 +1,5 @@
+# daftar blockir dari penelusuran internet saya
+# bisa buat pihole / adblock / simple-adsblock / dll
+# maaf cuma sedikit, maklum buat pribadi
+
+fimela.com

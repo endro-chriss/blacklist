@@ -1,5 +1,12 @@
-# daftar blockir dari penelusuran internet saya
-# bisa buat pihole / adblock / simple-adsblock / dll
+# daftar blokir dari penelusuran internet saya
+# bisa buat pihole / adblock / simple-adblock / dll
 # maaf cuma sedikit, maklum buat pribadi
 
-fimela.com
+assapebat.club
+beigeiros.pw
+boyughaye.com
+exdynsrv.com
+fryawlauk.com
+funwarcab.club
+optnx.com
+outlookabsorb.com

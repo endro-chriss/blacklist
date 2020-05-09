@@ -1,0 +1,3 @@
+# host blacklist
+
+syndication.exdynsrv.com

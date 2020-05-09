@@ -5,3 +5,6 @@
 127.0.0.1  www.winlive88.info
 127.0.0.1  m.winlive88.info
 127.0.0.1  winlive88.info
+127.0.0.1  www.olenation.org
+127.0.0.1  m.olenation.org
+127.0.0.1  olenation.org

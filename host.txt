@@ -8,3 +8,4 @@
 127.0.0.1  www.olenation.org
 127.0.0.1  m.olenation.org
 127.0.0.1  olenation.org
+127.0.0.1  www.olenation.org/mobile/

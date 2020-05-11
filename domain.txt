@@ -28,3 +28,4 @@ oomph.co.id
 3goplay.co.id
 klikfilm.com
 genflix.co.id
+sushiroll.co.id

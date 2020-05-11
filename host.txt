@@ -4,3 +4,4 @@
 127.0.0.1  codedexchange.com
 127.0.0.1  trixogo.tri.co.id
 127.0.0.1  trixogokids.tri.co.id
+127.0.0.1  www.3goplay.co.id

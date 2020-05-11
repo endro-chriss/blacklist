@@ -1,6 +1,4 @@
-# daftar blokir dari penelusuran internet saya
-# bisa buat pihole / adblock / simple-adblock / dll
-# maaf cuma sedikit, maklum buat pribadi
+# Domain list pi-hole / adblock / simple-adblock / adguard / dll
 
 assapebat.club
 beigeiros.pw

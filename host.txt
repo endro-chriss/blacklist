@@ -6,3 +6,6 @@
 127.0.0.1  trixogo.tri.co.id
 127.0.0.1  alaidio.tri.co.id
 127.0.0.1  trixogokids.tri.co.id
+127.0.0.1  triyakom.com
+127.0.0.1  artis.triyakom.com
+127.0.0.1  artis.triyakom.com/charging/

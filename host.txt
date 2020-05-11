@@ -9,3 +9,5 @@
 127.0.0.1  triyakom.com
 127.0.0.1  artis.triyakom.com
 127.0.0.1  artis.triyakom.com/charging/
+127.0.0.1  rbt.tri.co.id
+127.0.0.1  rbt.tri.co.id/wap/

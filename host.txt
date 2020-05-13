@@ -14,3 +14,4 @@
 127.0.0.1  rbt.tri.co.id/wap/noauth/
 127.0.0.1  rbt.tri.co.id/wap/alltunes/
 127.0.0.1  restricted.tri.co.id
+127.0.0.1  c.union.ucweb.com

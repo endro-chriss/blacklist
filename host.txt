@@ -16,3 +16,4 @@
 127.0.0.1  restricted.tri.co.id
 127.0.0.1  c.union.ucweb.com
 127.0.0.1  attr2.union.ucweb.com
+127.0.0.1  ucads.ucweb.com

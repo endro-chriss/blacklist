@@ -56,3 +56,4 @@ putfeepea.site
 googletagmanager.com
 taobao.com
 qq.com
+baidu.com

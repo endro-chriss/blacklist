@@ -21,4 +21,3 @@
 127.0.0.1  s.w.org
 127.0.0.1  cdnjs.cloudflare.com
 127.0.0.1  cdn.jsdelivr.net
-127.0.0.1  image.tmdb.org

@@ -66,3 +66,8 @@ providentsopport.site
 runative-syndicate.com
 runative.com
 cloudfront.net
+cloudflare.com
+onclickgenius.com
+onclickperformance.com
+onclickalgo.com
+advertoonsaz.club

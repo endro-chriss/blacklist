@@ -38,7 +38,6 @@ justtomake.com
 admitad.com
 lenzmx.com
 kitrigthy.com
-histats.com
 joyekepus.online
 googletagmanager.com
 taobao.com
@@ -54,7 +53,7 @@ onclickalgo.com
 mopnixhem.com
 evemasoil.com
 prosumsit.com
-hwcdn.net
+
 clksite.com
 aphycolourses.info
 globaladtracking.com
@@ -63,6 +62,7 @@ the31news.com
 # Web Analysis Informer
 cutestat.com
 dostophog.com
+histats.com
 mooantink.com
 
 #Ads
@@ -77,3 +77,4 @@ nta1vb6cdlrl.com
 stackpathcdn.com
 bootstrapcdn.com
 cloudfront.net
+hwcdn.net

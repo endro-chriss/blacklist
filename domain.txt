@@ -55,18 +55,25 @@ mopnixhem.com
 evemasoil.com
 prosumsit.com
 hwcdn.net
-stackpathcdn.com
-bootstrapcdn.com
 clksite.com
 aphycolourses.info
 globaladtracking.com
-cloudfront.net
-au79nt5wic4x.com
-nta1vb6cdlrl.com
-bbom2b434493.com
 the31news.com
 
 # Web Analysis Informer
-mooantink.com
 cutestat.com
 dostophog.com
+mooantink.com
+
+#Ads
+wastesshimssat.world
+
+#Random
+au79nt5wic4x.com
+bbom2b434493.com
+nta1vb6cdlrl.com
+
+#CDN
+stackpathcdn.com
+bootstrapcdn.com
+cloudfront.net

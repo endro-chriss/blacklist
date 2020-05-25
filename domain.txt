@@ -1,9 +1,5 @@
 # Domain list pi-hole / adblock / simple-adblock / adguard / dll
 
-joyekepus.online
-inorbitad.com
-apple.com
-aphycolourses.info
 
 # Ads
 wastesshimssat.world
@@ -72,6 +68,7 @@ evemasoil.com
 prosumsit.com
 kitrigthy.com
 the31news.com
+apple.com
 
 # Random
 au79nt5wic4x.com
@@ -86,3 +83,6 @@ mooantink.com
 updatesecure.info
 runative-syndicate.com
 runative.com
+joyekepus.online
+inorbitad.com
+aphycolourses.info

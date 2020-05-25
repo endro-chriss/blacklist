@@ -1,17 +1,7 @@
 # Domain list pi-hole / adblock / simple-adblock / adguard / dll
 
-boyughaye.com
-exdynsrv.com
-fryawlauk.com
-optnx.com
-outlookabsorb.com
-pushsilo.xyz
-betdealpoker.com
 lazada.co.id
 lazada.com
-topwwnews.com
-2cnjuh34jbhub.com
-greentropolo.com
 updatesecure.info
 rameattot.com
 wonfigfig.com
@@ -52,11 +42,6 @@ mooantink.com
 #Ads
 wastesshimssat.world
 
-#Random
-au79nt5wic4x.com
-bbom2b434493.com
-nta1vb6cdlrl.com
-
 #Chat
 discord.com
 discord.gg
@@ -82,3 +67,19 @@ sushiroll.co.id
 pororoindo.com
 mobiskr.com
 kidster.mobi
+
+#Random
+au79nt5wic4x.com
+bbom2b434493.com
+nta1vb6cdlrl.com
+
+#Pop Up
+boyughaye.com
+exdynsrv.com
+fryawlauk.com
+optnx.com
+outlookabsorb.com
+pushsilo.xyz
+topwwnews.com
+2cnjuh34jbhub.com
+greentropolo.com

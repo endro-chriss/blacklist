@@ -1,60 +1,39 @@
 # Domain list pi-hole / adblock / simple-adblock / adguard / dll
 
-lazada.co.id
-lazada.com
-updatesecure.info
-rameattot.com
-wonfigfig.com
-telunjuk.com
-thealterforce.com
-keepinfit.net
-justtomake.com
-admitad.com
-lenzmx.com
 kitrigthy.com
 joyekepus.online
-googletagmanager.com
-taobao.com
-qq.com
-baidu.com
 inorbitad.com
 apple.com
 runative-syndicate.com
 runative.com
-onclickgenius.com
-onclickperformance.com
-onclickalgo.com
 mopnixhem.com
 evemasoil.com
 prosumsit.com
-
-clksite.com
 aphycolourses.info
 globaladtracking.com
 the31news.com
 
-# Web Analysis Informer
-cutestat.com
-dostophog.com
-histats.com
-mooantink.com
-
-#Ads
+# Ads
 wastesshimssat.world
+onclickgenius.com
+onclickperformance.com
+onclickalgo.com
+clksite.com
 
-#Chat
+# Chat
 discord.com
 discord.gg
 disqus.com
 chatango.com
 
-#CDN
+# CDN
 stackpathcdn.com
 bootstrapcdn.com
 cloudfront.net
 hwcdn.net
+googletagmanager.com
 
-#Content Premium
+# Content Premium
 3goplay.co.id
 gemezz.mobi
 gameloft.com
@@ -68,12 +47,16 @@ pororoindo.com
 mobiskr.com
 kidster.mobi
 
-#Random
-au79nt5wic4x.com
-bbom2b434493.com
-nta1vb6cdlrl.com
+# CN
+taobao.com
+qq.com
+baidu.com
 
-#Pop Up
+# Olshop Spam
+lazada.co.id
+lazada.com
+
+# Pop Up
 boyughaye.com
 exdynsrv.com
 fryawlauk.com
@@ -83,3 +66,23 @@ pushsilo.xyz
 topwwnews.com
 2cnjuh34jbhub.com
 greentropolo.com
+rameattot.com
+wonfigfig.com
+telunjuk.com
+thealterforce.com
+keepinfit.net
+justtomake.com
+admitad.com
+lenzmx.com
+
+# Random
+au79nt5wic4x.com
+bbom2b434493.com
+nta1vb6cdlrl.com
+
+# Web Analysis Informer
+cutestat.com
+dostophog.com
+histats.com
+mooantink.com
+updatesecure.info

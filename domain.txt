@@ -24,7 +24,6 @@ klikfilm.com
 genflix.co.id
 sushiroll.co.id
 pororoindo.com
-dostophog.com
 mobiskr.com
 kidster.mobi
 2cnjuh34jbhub.com
@@ -52,7 +51,6 @@ runative.com
 onclickgenius.com
 onclickperformance.com
 onclickalgo.com
-cutestat.com
 mopnixhem.com
 evemasoil.com
 prosumsit.com
@@ -67,3 +65,8 @@ au79nt5wic4x.com
 nta1vb6cdlrl.com
 bbom2b434493.com
 the31news.com
+
+# Web Analysis Informer
+mooantink.com
+cutestat.com
+dostophog.com

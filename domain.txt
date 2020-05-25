@@ -1,6 +1,5 @@
 # Domain list pi-hole / adblock / simple-adblock / adguard / dll
 
-beigeiros.pw
 boyughaye.com
 exdynsrv.com
 fryawlauk.com
@@ -14,7 +13,6 @@ disqus.com
 chatango.com
 lazada.co.id
 lazada.com
-leoceran.pw
 topwwnews.com
 gemezz.mobi
 gameloft.com
@@ -50,7 +48,6 @@ googletagmanager.com
 taobao.com
 qq.com
 baidu.com
-presdithas.pw
 inorbitad.com
 apple.com
 propeanikob.site

@@ -1,11 +1,9 @@
 # Domain list pi-hole / adblock / simple-adblock / adguard / dll
 
-assapebat.club
 beigeiros.pw
 boyughaye.com
 exdynsrv.com
 fryawlauk.com
-funwarcab.club
 optnx.com
 outlookabsorb.com
 pushsilo.xyz
@@ -38,8 +36,6 @@ monbin.site
 edublog.pw
 rameattot.com
 wonfigfig.com
-drydoclei.club
-labferour.club
 telunjuk.com
 thealterforce.com
 keepinfit.net
@@ -47,10 +43,7 @@ justtomake.com
 admitad.com
 lenzmx.com
 kitrigthy.com
-boyaidare.club
 histats.com
-ateoildim.club
-offgashah.club
 joyekepus.online
 putfeepea.site
 googletagmanager.com
@@ -60,7 +53,6 @@ baidu.com
 presdithas.pw
 inorbitad.com
 apple.com
-discountryvc.club
 propeanikob.site
 providentsopport.site
 runative-syndicate.com
@@ -68,7 +60,6 @@ runative.com
 onclickgenius.com
 onclickperformance.com
 onclickalgo.com
-advertoonsaz.club
 cutestat.com
 mopnixhem.com
 evemasoil.com

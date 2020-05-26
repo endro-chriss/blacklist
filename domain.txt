@@ -21,6 +21,9 @@ bootstrapcdn.com
 cloudfront.net
 hwcdn.net
 googletagmanager.com
+jquery.com
+akamaiedge.net
+akamai.net
 
 # Content Premium
 3goplay.co.id

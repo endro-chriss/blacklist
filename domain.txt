@@ -8,6 +8,7 @@ onclickperformance.com
 onclickalgo.com
 clksite.com
 globaladtracking.com
+antiadblocksystems.com
 
 # Chat
 discord.com
@@ -16,12 +17,9 @@ disqus.com
 chatango.com
 
 # CDN
-stackpathcdn.com
-bootstrapcdn.com
 cloudfront.net
 hwcdn.net
 googletagmanager.com
-jquery.com
 akamaiedge.net
 akamai.net
 

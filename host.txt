@@ -19,4 +19,3 @@
 127.0.0.1  ucads.ucweb.com
 127.0.0.1  iklan.komiku.co.id
 127.0.0.1  s.w.org
-127.0.0.1  cdn.jsdelivr.net

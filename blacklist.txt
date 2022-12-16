@@ -6,6 +6,10 @@ address=/doubleclick.net/
 address=/adskeeper.co.uk/
 address=/inpage-push.com/
 address=/offerimage.com/
+address=/onclickgenius.com/
+address=/onclickperformance.com/
+address=/onclickalgo.com/
+address=/clksite.com/
 
 address=/dolanin.id/
 

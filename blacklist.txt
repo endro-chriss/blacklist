@@ -1,6 +1,8 @@
+#ads
 address=/googletagmanager.com/
 address=/googleadservices.com/
 address=/adservice.google.com/
+address=/googlesyndication.com/
 address=/mopub.com/
 address=/doubleclick.net/
 address=/adskeeper.co.uk/
@@ -10,7 +12,13 @@ address=/onclickgenius.com/
 address=/onclickperformance.com/
 address=/onclickalgo.com/
 address=/clksite.com/
+address=/crashlytics.com/
 
+#olshop
+address=/lazada.co.id/
+address=/lazada.com/
+
+#click bait
 address=/dolanin.id/
 address=/layaranak.com/
 address=/codedexchange.com/
@@ -26,6 +34,7 @@ address=/rbt.tri.co.id/wap/noauth/
 address=/rbt.tri.co.id/wap/alltunes/
 address=/restricted.tri.co.id/
 
+#Domain
 address=/.casa/
 address=/.cam/
 address=/.plus/
@@ -41,6 +50,12 @@ address=/.store/
 address=/.guru/
 address=/.life/
 
+#os update
+address=/transacme.com/
+address=/shalltry.com/
+address=/amazonaws.com/
+
+#komik campur
 address=/komentar.komiku.id/
 address=/tensagesic.com/
 address=/udomyeasted.com/
@@ -116,3 +131,13 @@ address=/anginasallodge.com/
 address=/sprigsrecon.com/
 address=/limurol.com/
 address=/bacamanga.web.id/
+address=/livechatinc.com/
+address=/nukeasset.com/
+address=/playbook88vip.com/
+address=/anginasallodge.com/
+address=/dtscout.com/
+address=/histats.com/
+address=/prestsusie.com/
+address=/ad.plus/
+address=/trustlook.com/
+

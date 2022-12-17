@@ -140,4 +140,6 @@ address=/histats.com/
 address=/prestsusie.com/
 address=/ad.plus/
 address=/trustlook.com/
+address=/infolinks.com/
+address=/palmplaystore.com/
 

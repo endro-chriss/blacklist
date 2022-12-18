@@ -13,6 +13,7 @@ address=/onclickperformance.com/
 address=/onclickalgo.com/
 address=/clksite.com/
 address=/crashlytics.com/
+address=/adsco.re/
 
 #olshop
 address=/lazada.co.id/
@@ -142,4 +143,21 @@ address=/ad.plus/
 address=/trustlook.com/
 address=/infolinks.com/
 address=/palmplaystore.com/
+address=/arengboard.com/
+address=/accesstra.de/
+address=/cdnkimg.com/
+address=/viikegef.com/
+address=/zlbtaj.com/
+address=/onmarshtompor.com/
+address=/itstuffnews.com/
+address=/wmgtr.com/
+address=/rlnlsk.com/
+address=/interstitial-07.com/
+address=/nanouwho.com/
+propeller-tracking.com/
+address=/diromalxx.com/
+address=/rtmark.net/
+address=/louchees.net/
+address=/nessainy.net/
+
 

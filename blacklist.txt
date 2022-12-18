@@ -154,10 +154,11 @@ address=/wmgtr.com/
 address=/rlnlsk.com/
 address=/interstitial-07.com/
 address=/nanouwho.com/
-propeller-tracking.com/
+address=/propeller-tracking.com/
 address=/diromalxx.com/
 address=/rtmark.net/
 address=/louchees.net/
 address=/nessainy.net/
-
+address=/24newstech.com/
+address=/shtranssion.com/
 

@@ -12,8 +12,10 @@ address=/onclickgenius.com/
 address=/onclickperformance.com/
 address=/onclickalgo.com/
 address=/clksite.com/
+address=/maxonclick.com/
 address=/crashlytics.com/
 address=/adsco.re/
+address=/adx1.com/
 
 #olshop
 address=/lazada.co.id/
@@ -35,6 +37,12 @@ address=/rbt.tri.co.id/wap/noauth/
 address=/rbt.tri.co.id/wap/alltunes/
 address=/restricted.tri.co.id/
 
+#otakudesu
+address=/desustream.me/
+address=/jquery.com/
+address=/jwplatform.com/
+address=/gotrackier.com/
+
 #Domain
 address=/.casa/
 address=/.cam/
@@ -50,6 +58,8 @@ address=/.digital/
 address=/.store/
 address=/.guru/
 address=/.life/
+address=/.hair/
+address=/.top/
 
 #os update
 address=/transacme.com/
@@ -161,4 +171,6 @@ address=/louchees.net/
 address=/nessainy.net/
 address=/24newstech.com/
 address=/shtranssion.com/
-
+address=/internewsweb.com/
+address=/newrelic.com/
+address=pclk.name/

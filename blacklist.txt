@@ -173,4 +173,4 @@ address=/24newstech.com/
 address=/shtranssion.com/
 address=/internewsweb.com/
 address=/newrelic.com/
-address=pclk.name/
+address=/pclk.name/

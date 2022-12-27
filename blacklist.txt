@@ -175,7 +175,6 @@ address=/internewsweb.com/
 address=/newrelic.com/
 address=/pclk.name/
 address=/pubfuture.com/
-address=/purpleads.io/
 address=/lookoutboccies.com/
 address=/konasaphie.com/
 address=/eggerscorr.com/
@@ -183,3 +182,8 @@ address=/jerridlarded.com/
 address=/3xdb.com/
 address=/iconcnd.net/
 address=/native-track.com/
+address=/cdn.purpleads.io/
+address=/purpleads.io/
+address=/adligature.com/
+address=/adtelligent.com/
+

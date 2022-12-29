@@ -186,4 +186,5 @@ address=/cdn.purpleads.io/
 address=/purpleads.io/
 address=/adligature.com/
 address=/adtelligent.com/
-
+address=/redbillecphory.com/
+address=/4dex.io/

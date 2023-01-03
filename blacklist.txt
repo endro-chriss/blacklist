@@ -189,3 +189,4 @@ address=/adtelligent.com/
 address=/redbillecphory.com/
 address=/4dex.io/
 address=/bursa33.xyz/
+address=/playbook88a2.com/

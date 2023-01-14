@@ -58,6 +58,7 @@ address=/.digital/
 address=/.store/
 address=/.guru/
 address=/.life/
+address=/.live/
 address=/.hair/
 address=/.top/
 
@@ -190,3 +191,5 @@ address=/redbillecphory.com/
 address=/4dex.io/
 address=/bursa33.xyz/
 address=/playbook88a2.com/
+address=/tantohoggism.com/
+address=/alecanjan.com/

@@ -194,3 +194,4 @@ address=/playbook88a2.com/
 address=/tantohoggism.com/
 address=/alecanjan.com/
 address=/tantohoggism.com/
+address=/protagcdn.com/

@@ -200,3 +200,4 @@ address=/lucificassents.com/
 address=/pixfuture.com/
 address=/agkn.com/
 address=/offergate-apps-phkr.com/
+address=/vidcrunch.com/

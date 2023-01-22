@@ -201,3 +201,4 @@ address=/pixfuture.com/
 address=/agkn.com/
 address=/offergate-apps-phkr.com/
 address=/vidcrunch.com/
+address=/playbook88a2.com/

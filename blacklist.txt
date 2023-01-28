@@ -203,3 +203,5 @@ address=/offergate-apps-phkr.com/
 address=/vidcrunch.com/
 address=/playbook88a2.com/
 address=/tantohoggism.com/
+address=/rompercava.com/
+address=/intellipopup.com/

@@ -205,3 +205,9 @@ address=/playbook88a2.com/
 address=/tantohoggism.com/
 address=/rompercava.com/
 address=/intellipopup.com/
+address=/halibiuslicing.com/
+address=/adnxs.com/
+address=/creativecdn.com/
+address=/pubmatic.com/
+address=/mfadsrvr.com/
+

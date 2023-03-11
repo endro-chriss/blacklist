@@ -2,6 +2,7 @@
 address=/googletagmanager.com/
 address=/googleadservices.com/
 address=/adservice.google.com/
+address=/adservice.google.co.id/
 address=/googlesyndication.com/
 address=/mopub.com/
 address=/doubleclick.net/
@@ -216,4 +217,8 @@ address=/witlayvet.com/
 address=/acam-2.com/
 address=/aponiaonmarch.com/
 address=/bidgear.com/
+address=/yabidos.com/
+address=/criteo.com/
+address=/twilio.com/
+address=/vidoomy.com/
 

@@ -47,6 +47,7 @@ address=/gotrackier.com/
 #Domain
 address=/.casa/
 address=/.cam/
+address=/.club/
 address=/.plus/
 address=/.space/
 address=/.website/

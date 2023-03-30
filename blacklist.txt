@@ -230,3 +230,5 @@ address=/komikcast.nl/
 address=/lwonclbench.com/
 address=/secrefurther.com/
 address=/outlookabsorb.com/
+address=/limpedanychia.com/
+address=/invalingicencies.com/

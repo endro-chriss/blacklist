@@ -156,7 +156,6 @@ address=/trustlook.com/
 address=/infolinks.com/
 address=/palmplaystore.com/
 address=/arengboard.com/
-address=/accesstra.de/
 address=/cdnkimg.com/
 address=/viikegef.com/
 address=/zlbtaj.com/
@@ -233,4 +232,5 @@ address=/outlookabsorb.com/
 address=/limpedanychia.com/
 address=/invalingicencies.com/
 address=/kokobehnowder.com/
+address=/technotology.com/
 

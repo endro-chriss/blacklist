@@ -233,4 +233,9 @@ address=/limpedanychia.com/
 address=/invalingicencies.com/
 address=/kokobehnowder.com/
 address=/technotology.com/
+address=/pariatonet.com/
+address=/defybrick.com/
+address=/outbrain.com/
+address=/outbrainimg.com/
+address=/defybrick.com/
 

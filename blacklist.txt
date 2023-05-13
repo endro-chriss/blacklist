@@ -238,4 +238,5 @@ address=/defybrick.com/
 address=/outbrain.com/
 address=/outbrainimg.com/
 address=/defybrick.com/
-
+address=/bidgear.com/
+address=/newrelic.com/
